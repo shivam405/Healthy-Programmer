@@ -1,7 +1,7 @@
 # Healthy-Programmer
 
-[code quality score](https://www.code-inspector.com/project/16741/score/svg)
-[code grade](https://www.code-inspector.com/project/16741/status/svg)
+![code quality score](https://www.code-inspector.com/project/16741/score/svg)
+![code grade](https://www.code-inspector.com/project/16741/status/svg)
 we all programmer works very hard and some of us sit on chair and do the programming more than 8 hrs.
 
 which causes eyes weakness and we don't drink water or we don't leave the chair which cause back pain in whole day which makes us unhealthy.
